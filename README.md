@@ -1,8 +1,6 @@
 # Core-Python-Interview-Q-A-2023
 Core-Python-Interview-Q&amp;A-2023
 
-Certainly! Here are 50 core Python interview questions along with answers:
-
 ### 1. What is Python?
    **Answer:** Python is a high-level, interpreted, and general-purpose programming language that emphasizes readability and ease of use. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
@@ -191,4 +189,3 @@ Certainly! Here are 50 core Python interview questions along with answers:
 ### 50. Explain the purpose of the `asyncio` module in Python.
    **Answer:** The `asyncio` module provides a framework for writing asynchronous code using the `async` and `await` keywords. It is particularly useful for concurrent and parallel programming.
 
-These questions cover a range of topics in core Python. Keep in mind that interview questions can vary, and it's essential to be prepared for a diverse set of inquiries based on your experience and the specific role you're applying for.
